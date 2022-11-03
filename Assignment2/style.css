@@ -1,0 +1,7 @@
+table,td,th{
+    border:solid;
+   text-align: center;
+   padding: 10px;
+    border-collapse: collapse;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
